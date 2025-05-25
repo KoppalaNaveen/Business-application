@@ -62,6 +62,10 @@ Note: Before inserting an image for the logo you need to use the following proce
 
 ![image](https://github.com/user-attachments/assets/89735105-286e-44a0-aacd-e615fed2c8b8)
 
+## Output:
+![WhatsApp Image 2025-05-24 at 11 01 03_e06c7f8f](https://github.com/user-attachments/assets/30b235e3-7cb9-4001-9808-bb4aecefecc5)
+
+
 ## RESULT:
 
 Thus, creating a Warehouse Application in SalesForce.com is successfully created.
